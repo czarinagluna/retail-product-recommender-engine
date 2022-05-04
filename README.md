@@ -80,7 +80,7 @@ Collaborative filtering systems recommend items to a user based on the user's pa
 |[SlopeOne](https://surprise.readthedocs.io/en/stable/slope_one.html#surprise.prediction_algorithms.slope_one.SlopeOne)|A simple yet accurate collaborative filtering algorithm.|
 |[CoClustering](https://surprise.readthedocs.io/en/stable/co_clustering.html#surprise.prediction_algorithms.co_clustering.CoClustering)|A collaborative filtering algorithm based on co-clustering.|
 
-## Results and Recommendations
+## Results
 
 **Systems Performance:**
 
