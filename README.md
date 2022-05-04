@@ -53,7 +53,7 @@ To take it a step further, I use the text features to create a **Text Review-Bas
 - Create the Term Frequency-Inverse Document Frequency (TF-IDF) vectors for the *documents*, which are the reviews.
 - Compute the pairwise cosine similarity from the matrix of TF-IDF scores, given by the dot product between each TF-IDF vector.
 
-**Some differences** between the text-based recommendations and the content-based recommendations on the same item:
+**Some differences** between the text review-based recommendations and the content-based recommendations on the same item:
 
 |Feature|Content-based|Text-based|Item|
 |---|:---:|:---:|:---:|
